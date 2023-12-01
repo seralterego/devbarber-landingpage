@@ -4,8 +4,16 @@
 <!-- fonte para badges e shieds: https://github.com/iuricode/readme-template/tree/main -->
 
 ## 📄 Sobre
-
 Landing page que simula a apresentação de uma barbearia replicado da [série especial](https://sujeitoprogramador.com/landing-page/) feita pelo canal do YouTube [Sujeito Programador](https://sujeitoprogramador.com/), com o objetivo de estudar e práticar os conhecimentos de HTML e CSS (com SASS)
+
+<details>
+<summary>📸 Screenshot</summary>
+<div style="width: 50%; margin: 0 auto">
+  <img src="assets/screencapture-2023-12-01.png">
+</div>
+</details>
+
+🌐 [Versão em produção](https://devbarber-landingpage.vercel.app/)
 
 ## 🛠 Funcionalidades
 
